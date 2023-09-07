@@ -1,0 +1,8 @@
+name: SoilMoistureLesson
+channels: 
+  - defaults
+  - conda-forge
+dependencies: 
+  - python
+  - jupyter
+  
